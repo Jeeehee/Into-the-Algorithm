@@ -6,7 +6,7 @@
 //
 
 import Foundation
-//111213u4oiwrjkafaksdfklasldf
+
 func q70128(_ a:[Int], _ b:[Int]) -> Int {
     var sum = 0
     

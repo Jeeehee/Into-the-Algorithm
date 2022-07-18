@@ -17,6 +17,8 @@
 		73B55EE02884FDCF004FF108 /* 64061.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B55EDF2884FDCF004FF108 /* 64061.swift */; };
 		73B55EE22884FE8F004FF108 /* 70128.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B55EE12884FE8F004FF108 /* 70128.swift */; };
 		73B55EE42884FE9F004FF108 /* 1000.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B55EE32884FE9F004FF108 /* 1000.swift */; };
+		73B55EE628850777004FF108 /* 1001.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B55EE528850777004FF108 /* 1001.swift */; };
+		73B55EE8288508DE004FF108 /* 1330.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B55EE7288508DE004FF108 /* 1330.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		73B55EDF2884FDCF004FF108 /* 64061.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 64061.swift; sourceTree = "<group>"; };
 		73B55EE12884FE8F004FF108 /* 70128.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 70128.swift; sourceTree = "<group>"; };
 		73B55EE32884FE9F004FF108 /* 1000.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1000.swift; sourceTree = "<group>"; };
+		73B55EE528850777004FF108 /* 1001.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1001.swift; sourceTree = "<group>"; };
+		73B55EE7288508DE004FF108 /* 1330.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1330.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +143,8 @@
 			isa = PBXGroup;
 			children = (
 				73B55EE32884FE9F004FF108 /* 1000.swift */,
+				73B55EE528850777004FF108 /* 1001.swift */,
+				73B55EE7288508DE004FF108 /* 1330.swift */,
 			);
 			path = BaekJoon;
 			sourceTree = "<group>";
@@ -289,6 +295,8 @@
 				73B55EE02884FDCF004FF108 /* 64061.swift in Sources */,
 				73B55EE42884FE9F004FF108 /* 1000.swift in Sources */,
 				73B55EB22884FD70004FF108 /* AppDelegate.swift in Sources */,
+				73B55EE628850777004FF108 /* 1001.swift in Sources */,
+				73B55EE8288508DE004FF108 /* 1330.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

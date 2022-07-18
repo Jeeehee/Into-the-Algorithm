@@ -12,4 +12,7 @@
 |번호|주제|문제|
 |---|---|---|
 |1000|사칙연산|[A+B](https://www.acmicpc.net/problem/1000)|
+|1001|사칙연산|[A-B](https://www.acmicpc.net/problem/1001)|
+|1330|구현|[두 수 비교하기](https://www.acmicpc.net/problem/1330)|
+
 
