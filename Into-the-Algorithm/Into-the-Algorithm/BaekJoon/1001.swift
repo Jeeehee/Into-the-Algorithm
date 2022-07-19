@@ -7,4 +7,7 @@
 
 import Foundation
 
-let inputNum = readLine()!.split(separator: " ").map { Int($0)! }
+func q1001() {
+    let input = readLine()!.split(separator: " ").map { Int($0)! }
+    print(input[0] - input[1])
+}
