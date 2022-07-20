@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		735DC1C928879576000EE5DE /* 1550.swift in Sources */ = {isa = PBXBuildFile; fileRef = 735DC1C828879576000EE5DE /* 1550.swift */; };
+		735DC1CB2887A802000EE5DE /* 2557.swift in Sources */ = {isa = PBXBuildFile; fileRef = 735DC1CA2887A802000EE5DE /* 2557.swift */; };
+		735DC1CD2887A837000EE5DE /* 2558.swift in Sources */ = {isa = PBXBuildFile; fileRef = 735DC1CC2887A837000EE5DE /* 2558.swift */; };
+		735DC1CF2887A8AD000EE5DE /* 2741.swift in Sources */ = {isa = PBXBuildFile; fileRef = 735DC1CE2887A8AD000EE5DE /* 2741.swift */; };
+		735DC1D12887A995000EE5DE /* 2742.swift in Sources */ = {isa = PBXBuildFile; fileRef = 735DC1D02887A995000EE5DE /* 2742.swift */; };
+		735DC1D32887AA9A000EE5DE /* 2752.swift in Sources */ = {isa = PBXBuildFile; fileRef = 735DC1D22887AA9A000EE5DE /* 2752.swift */; };
 		73B55EB22884FD70004FF108 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B55EB12884FD70004FF108 /* AppDelegate.swift */; };
 		73B55EB42884FD70004FF108 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B55EB32884FD70004FF108 /* ViewController.swift */; };
 		73B55EB62884FD71004FF108 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 73B55EB52884FD71004FF108 /* Assets.xcassets */; };
@@ -40,6 +46,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		735DC1C828879576000EE5DE /* 1550.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1550.swift; sourceTree = "<group>"; };
+		735DC1CA2887A802000EE5DE /* 2557.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2557.swift; sourceTree = "<group>"; };
+		735DC1CC2887A837000EE5DE /* 2558.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2558.swift; sourceTree = "<group>"; };
+		735DC1CE2887A8AD000EE5DE /* 2741.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2741.swift; sourceTree = "<group>"; };
+		735DC1D02887A995000EE5DE /* 2742.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2742.swift; sourceTree = "<group>"; };
+		735DC1D22887AA9A000EE5DE /* 2752.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2752.swift; sourceTree = "<group>"; };
 		73B55EAE2884FD70004FF108 /* Into-the-Algorithm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Into-the-Algorithm.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		73B55EB12884FD70004FF108 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		73B55EB32884FD70004FF108 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -148,6 +160,12 @@
 				73B55EE528850777004FF108 /* 1001.swift */,
 				73B55EE7288508DE004FF108 /* 1330.swift */,
 				73D5850928866CB0000616BB /* 10828.swift */,
+				735DC1C828879576000EE5DE /* 1550.swift */,
+				735DC1CA2887A802000EE5DE /* 2557.swift */,
+				735DC1CC2887A837000EE5DE /* 2558.swift */,
+				735DC1CE2887A8AD000EE5DE /* 2741.swift */,
+				735DC1D02887A995000EE5DE /* 2742.swift */,
+				735DC1D22887AA9A000EE5DE /* 2752.swift */,
 			);
 			path = BaekJoon;
 			sourceTree = "<group>";
@@ -293,14 +311,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				735DC1D12887A995000EE5DE /* 2742.swift in Sources */,
+				735DC1CB2887A802000EE5DE /* 2557.swift in Sources */,
 				73B55EE22884FE8F004FF108 /* 70128.swift in Sources */,
 				73D5850A28866CB0000616BB /* 10828.swift in Sources */,
 				73B55EB42884FD70004FF108 /* ViewController.swift in Sources */,
+				735DC1C928879576000EE5DE /* 1550.swift in Sources */,
 				73B55EE02884FDCF004FF108 /* 64061.swift in Sources */,
+				735DC1D32887AA9A000EE5DE /* 2752.swift in Sources */,
 				73B55EE42884FE9F004FF108 /* 1000.swift in Sources */,
+				735DC1CF2887A8AD000EE5DE /* 2741.swift in Sources */,
 				73B55EB22884FD70004FF108 /* AppDelegate.swift in Sources */,
 				73B55EE628850777004FF108 /* 1001.swift in Sources */,
 				73B55EE8288508DE004FF108 /* 1330.swift in Sources */,
+				735DC1CD2887A837000EE5DE /* 2558.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
