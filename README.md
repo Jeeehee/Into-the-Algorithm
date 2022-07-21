@@ -21,5 +21,7 @@
 |2741|구현|[N 찍기](https://www.acmicpc.net/problem/2741)|
 |2742|구현|[기찍 N](https://www.acmicpc.net/problem/2742)|
 |2752|정렬|[세수정렬](https://www.acmicpc.net/problem/2752)|
-
-
+|2753|구현|[윤년](https://www.acmicpc.net/problem/2753)|
+|4101|구현|[크냐?](https://www.acmicpc.net/problem/4101)|
+|4562|구현|[No Brainer](https://www.acmicpc.net/problem/4562)|
+|4832|구현|[숫자 맞추기 게임](https://www.acmicpc.net/problem/4892)|
