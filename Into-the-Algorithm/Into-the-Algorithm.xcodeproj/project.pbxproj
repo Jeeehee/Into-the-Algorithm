@@ -16,6 +16,7 @@
 		737C22282888EFF400C05682 /* 2753.swift in Sources */ = {isa = PBXBuildFile; fileRef = 737C22272888EFF400C05682 /* 2753.swift */; };
 		737C222A2888F32200C05682 /* 4101.swift in Sources */ = {isa = PBXBuildFile; fileRef = 737C22292888F32200C05682 /* 4101.swift */; };
 		737C222C2888F7FA00C05682 /* 4562.swift in Sources */ = {isa = PBXBuildFile; fileRef = 737C222B2888F7FA00C05682 /* 4562.swift */; };
+		73A53B51288A415000B65052 /* 4892.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73A53B50288A415000B65052 /* 4892.swift */; };
 		73B55EB22884FD70004FF108 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B55EB12884FD70004FF108 /* AppDelegate.swift */; };
 		73B55EB42884FD70004FF108 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B55EB32884FD70004FF108 /* ViewController.swift */; };
 		73B55EB62884FD71004FF108 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 73B55EB52884FD71004FF108 /* Assets.xcassets */; };
@@ -58,6 +59,7 @@
 		737C22272888EFF400C05682 /* 2753.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2753.swift; sourceTree = "<group>"; };
 		737C22292888F32200C05682 /* 4101.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 4101.swift; sourceTree = "<group>"; };
 		737C222B2888F7FA00C05682 /* 4562.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 4562.swift; sourceTree = "<group>"; };
+		73A53B50288A415000B65052 /* 4892.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 4892.swift; sourceTree = "<group>"; };
 		73B55EAE2884FD70004FF108 /* Into-the-Algorithm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Into-the-Algorithm.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		73B55EB12884FD70004FF108 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		73B55EB32884FD70004FF108 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -175,6 +177,7 @@
 				737C22272888EFF400C05682 /* 2753.swift */,
 				737C22292888F32200C05682 /* 4101.swift */,
 				737C222B2888F7FA00C05682 /* 4562.swift */,
+				73A53B50288A415000B65052 /* 4892.swift */,
 			);
 			path = BaekJoon;
 			sourceTree = "<group>";
@@ -336,6 +339,7 @@
 				73B55EE628850777004FF108 /* 1001.swift in Sources */,
 				73B55EE8288508DE004FF108 /* 1330.swift in Sources */,
 				735DC1CD2887A837000EE5DE /* 2558.swift in Sources */,
+				73A53B51288A415000B65052 /* 4892.swift in Sources */,
 				737C222C2888F7FA00C05682 /* 4562.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
