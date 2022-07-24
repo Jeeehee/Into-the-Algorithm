@@ -25,3 +25,9 @@
 |4101|구현|[크냐?](https://www.acmicpc.net/problem/4101)|
 |4562|구현|[No Brainer](https://www.acmicpc.net/problem/4562)|
 |4832|구현|[숫자 맞추기 게임](https://www.acmicpc.net/problem/4892)|
+|5217|구현|[쌍의합](https://www.acmicpc.net/problem/5217)|
+|5337|구현|[웰컴](https://www.acmicpc.net/problem/5337)|
+|5338|구현|[마이크로소프트 로고](https://www.acmicpc.net/problem/5338)|
+|5522|구현|[카드게임](https://www.acmicpc.net/problem/5522)|
+|6749|구현|[Next in line](https://www.acmicpc.net/problem/6749)|
+
