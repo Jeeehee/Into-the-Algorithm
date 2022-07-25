@@ -30,4 +30,6 @@
 |5338|구현|[마이크로소프트 로고](https://www.acmicpc.net/problem/5338)|
 |5522|구현|[카드게임](https://www.acmicpc.net/problem/5522)|
 |6749|구현|[Next in line](https://www.acmicpc.net/problem/6749)|
-
+|9012|스택|[괄호](https://www.acmicpc.net/problem/9012)|
+|6778|구현|[Which Alien?](https://www.acmicpc.net/problem/6778)|
+|7891|사칙연산|[Can you add this?](https://www.acmicpc.net/problem/7891)|
