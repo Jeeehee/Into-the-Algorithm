@@ -7,10 +7,6 @@
 
 import Foundation
 
-// n이 주어질때, 어떠한 두 수를 더해서 n이 나오게 하기.
-// 이때 첫 수는 항상 두번째 수보다 작아야하며 같을 수 없다.
-
-// 아 무조건이구나.. 양 끝의 수를 더하면 되는구나?
 func q5217() {
     for _ in 0..<Int(readLine()!)! {
         let input = Int(readLine()!)!

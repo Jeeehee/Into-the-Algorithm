@@ -33,3 +33,15 @@
 |9012|스택|[괄호](https://www.acmicpc.net/problem/9012)|
 |6778|구현|[Which Alien?](https://www.acmicpc.net/problem/6778)|
 |7891|사칙연산|[Can you add this?](https://www.acmicpc.net/problem/7891)|
+|8370|사칙연산|[Plane](https://www.acmicpc.net/problem/8370)|
+|8393|사칙연산|[합](https://www.acmicpc.net/problem/8393)|
+|9316|구현|[Hello Judge](https://www.acmicpc.net/problem/9316)|
+|9713|사칙연산|[Sum of Odd Sequence](https://www.acmicpc.net/problem/9713)|
+|10170|구현|[NFC West vs North](https://www.acmicpc.net/problem/10170)|
+|10699|구현|[오늘 날짜](https://www.acmicpc.net/problem/10699)|
+|10817|구현|[세 수](https://www.acmicpc.net/problem/10817)|
+|11104|구현|[Fridge of Your Dreams](https://www.acmicpc.net/problem/11104)|
+|11319|구현|[Count Me In](https://www.acmicpc.net/problem/11319)|
+|11367|구현|[Report Card Time](https://www.acmicpc.net/problem/11367)|
+|11549|구현|[Identifying tea](https://www.acmicpc.net/problem/11549)|
+|11654|구현|[아스키 코드](https://www.acmicpc.net/problem/11654)|
