@@ -45,3 +45,8 @@
 |11367|구현|[Report Card Time](https://www.acmicpc.net/problem/11367)|
 |11549|구현|[Identifying tea](https://www.acmicpc.net/problem/11549)|
 |11654|구현|[아스키 코드](https://www.acmicpc.net/problem/11654)|
+|13597|구현|[Tri-du](https://www.acmicpc.net/problem/13597)|
+|13752|구현|[히스토그램](https://www.acmicpc.net/problem/13752)|
+|14038|구현|[Tournament Selection](https://www.acmicpc.net/problem/14038)|
+|14681|구현|[사분면 고르기](https://www.acmicpc.net/problem/14681)|
+|15000|구현|[CAPS](https://www.acmicpc.net/problem/15000)|
