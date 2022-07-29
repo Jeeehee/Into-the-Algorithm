@@ -50,3 +50,5 @@
 |14038|구현|[Tournament Selection](https://www.acmicpc.net/problem/14038)|
 |14681|구현|[사분면 고르기](https://www.acmicpc.net/problem/14681)|
 |15000|구현|[CAPS](https://www.acmicpc.net/problem/15000)|
+|1152|문자열|[단어의 개수](https://www.acmicpc.net/problem/1152)|
+|1834|수학|[나머지와 몫이 같은 수](https://www.acmicpc.net/problem/1834)|
