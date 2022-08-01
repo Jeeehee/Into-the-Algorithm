@@ -52,3 +52,5 @@
 |15000|구현|[CAPS](https://www.acmicpc.net/problem/15000)|
 |1152|문자열|[단어의 개수](https://www.acmicpc.net/problem/1152)|
 |1834|수학|[나머지와 몫이 같은 수](https://www.acmicpc.net/problem/1834)|
+|1259|문자열|[팰린드롬수](https://www.acmicpc.net/problem/1259)|
+|1264|문자열|[모음의 개수](https://www.acmicpc.net/problem/1264)|
