@@ -7,6 +7,12 @@
 |---|---|---|
 |64061|스택|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|
 
+## Leetcode
+
+|주제|문제|
+|---|---|
+|Hash Table|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
+
 ## BaekJoon
 
 |번호|주제|문제|

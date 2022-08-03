@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		733D7827289A0B05001E4BE6 /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 733D7826289A0B05001E4BE6 /* LongestSubstringWithoutRepeatingCharacters.swift */; };
 		735DC1C928879576000EE5DE /* 1550.swift in Sources */ = {isa = PBXBuildFile; fileRef = 735DC1C828879576000EE5DE /* 1550.swift */; };
 		735DC1CB2887A802000EE5DE /* 2557.swift in Sources */ = {isa = PBXBuildFile; fileRef = 735DC1CA2887A802000EE5DE /* 2557.swift */; };
 		735DC1CD2887A837000EE5DE /* 2558.swift in Sources */ = {isa = PBXBuildFile; fileRef = 735DC1CC2887A837000EE5DE /* 2558.swift */; };
@@ -79,6 +80,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		733D7826289A0B05001E4BE6 /* LongestSubstringWithoutRepeatingCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestSubstringWithoutRepeatingCharacters.swift; sourceTree = "<group>"; };
 		735DC1C828879576000EE5DE /* 1550.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1550.swift; sourceTree = "<group>"; };
 		735DC1CA2887A802000EE5DE /* 2557.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2557.swift; sourceTree = "<group>"; };
 		735DC1CC2887A837000EE5DE /* 2558.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2558.swift; sourceTree = "<group>"; };
@@ -162,6 +164,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		733D7825289A0ADE001E4BE6 /* Leetcode */ = {
+			isa = PBXGroup;
+			children = (
+				733D7826289A0B05001E4BE6 /* LongestSubstringWithoutRepeatingCharacters.swift */,
+			);
+			path = Leetcode;
+			sourceTree = "<group>";
+		};
 		73B55EA52884FD70004FF108 = {
 			isa = PBXGroup;
 			children = (
@@ -188,6 +198,7 @@
 				73B55EBA2884FD71004FF108 /* Into_the_Algorithm.entitlements */,
 				73B55EDE2884FDA7004FF108 /* - */,
 				73B55EDC2884FD91004FF108 /* Programmers */,
+				733D7825289A0ADE001E4BE6 /* Leetcode */,
 				73B55EDD2884FD9B004FF108 /* BaekJoon */,
 			);
 			path = "Into-the-Algorithm";
@@ -410,6 +421,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				733D7827289A0B05001E4BE6 /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */,
 				735DC1D12887A995000EE5DE /* 2742.swift in Sources */,
 				73E28F42288F982F00C62FA5 /* 9713.swift in Sources */,
 				739F498E288E296400D8185A /* 9012.swift in Sources */,
