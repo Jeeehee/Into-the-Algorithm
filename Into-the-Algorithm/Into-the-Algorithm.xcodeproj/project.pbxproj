@@ -53,6 +53,9 @@
 		73D43C2B2892389F00D186BA /* 14681.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73D43C2A2892389F00D186BA /* 14681.swift */; };
 		73D43C2D28923E4400D186BA /* 15000.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73D43C2C28923E4400D186BA /* 15000.swift */; };
 		73D5850A28866CB0000616BB /* 10828.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73D5850928866CB0000616BB /* 10828.swift */; };
+		73D680D6289CAB3D006277C3 /* 1547.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73D680D5289CAB3D006277C3 /* 1547.swift */; };
+		73D680D8289CBAA1006277C3 /* 2420.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73D680D7289CBAA1006277C3 /* 2420.swift */; };
+		73D680DA289CBBBF006277C3 /* 2355.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73D680D9289CBBBF006277C3 /* 2355.swift */; };
 		73E28F3C288F906800C62FA5 /* 8370.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73E28F3B288F906800C62FA5 /* 8370.swift */; };
 		73E28F3E288F962C00C62FA5 /* 8393.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73E28F3D288F962C00C62FA5 /* 8393.swift */; };
 		73E28F40288F972100C62FA5 /* 9316.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73E28F3F288F972100C62FA5 /* 9316.swift */; };
@@ -130,6 +133,9 @@
 		73D43C2A2892389F00D186BA /* 14681.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 14681.swift; sourceTree = "<group>"; };
 		73D43C2C28923E4400D186BA /* 15000.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 15000.swift; sourceTree = "<group>"; };
 		73D5850928866CB0000616BB /* 10828.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10828.swift; sourceTree = "<group>"; };
+		73D680D5289CAB3D006277C3 /* 1547.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1547.swift; sourceTree = "<group>"; };
+		73D680D7289CBAA1006277C3 /* 2420.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2420.swift; sourceTree = "<group>"; };
+		73D680D9289CBBBF006277C3 /* 2355.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2355.swift; sourceTree = "<group>"; };
 		73E28F3B288F906800C62FA5 /* 8370.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 8370.swift; sourceTree = "<group>"; };
 		73E28F3D288F962C00C62FA5 /* 8393.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 8393.swift; sourceTree = "<group>"; };
 		73E28F3F288F972100C62FA5 /* 9316.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 9316.swift; sourceTree = "<group>"; };
@@ -276,6 +282,9 @@
 				7392A705289374CC00E530B4 /* 1834.swift */,
 				73A16ED528976DE9006C206E /* 1259.swift */,
 				73A16ED728977957006C206E /* 1264.swift */,
+				73D680D5289CAB3D006277C3 /* 1547.swift */,
+				73D680D7289CBAA1006277C3 /* 2420.swift */,
+				73D680D9289CBBBF006277C3 /* 2355.swift */,
 			);
 			path = BaekJoon;
 			sourceTree = "<group>";
@@ -428,6 +437,7 @@
 				73D43C292892362D00D186BA /* 14038.swift in Sources */,
 				7392A706289374CC00E530B4 /* 1834.swift in Sources */,
 				735DC1CB2887A802000EE5DE /* 2557.swift in Sources */,
+				73D680D8289CBAA1006277C3 /* 2420.swift in Sources */,
 				73B55EE22884FE8F004FF108 /* 70128.swift in Sources */,
 				73D43C2D28923E4400D186BA /* 15000.swift in Sources */,
 				73D5850A28866CB0000616BB /* 10828.swift in Sources */,
@@ -462,9 +472,11 @@
 				7392A704289373E200E530B4 /* 1152.swift in Sources */,
 				73B55EE628850777004FF108 /* 1001.swift in Sources */,
 				73B55EE8288508DE004FF108 /* 1330.swift in Sources */,
+				73D680D6289CAB3D006277C3 /* 1547.swift in Sources */,
 				739F4990288E314100D8185A /* 6778.swift in Sources */,
 				73E28F3C288F906800C62FA5 /* 8370.swift in Sources */,
 				735DC1CD2887A837000EE5DE /* 2558.swift in Sources */,
+				73D680DA289CBBBF006277C3 /* 2355.swift in Sources */,
 				73D43C2528922EA600D186BA /* 13597.swift in Sources */,
 				73A53B51288A415000B65052 /* 4892.swift in Sources */,
 				73D43C2B2892389F00D186BA /* 14681.swift in Sources */,

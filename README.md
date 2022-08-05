@@ -60,3 +60,6 @@
 |1834|수학|[나머지와 몫이 같은 수](https://www.acmicpc.net/problem/1834)|
 |1259|문자열|[팰린드롬수](https://www.acmicpc.net/problem/1259)|
 |1264|문자열|[모음의 개수](https://www.acmicpc.net/problem/1264)|
+|1547|구현|[공](https://www.acmicpc.net/problem/1547)|
+|2420|구현|[사파리월드](https://www.acmicpc.net/problem/2420)|
+|2355|구현|[수학](https://www.acmicpc.net/problem/2355)|
