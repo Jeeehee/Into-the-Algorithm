@@ -12,5 +12,5 @@ func q2355() {
     let max = input.max()!
     let min = input.min()!
     
-    print((input[0] + input[1]) * max / 2)
+    print((max - min + 1) * (max + min) / 2)
 }

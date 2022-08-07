@@ -62,4 +62,7 @@
 |1264|문자열|[모음의 개수](https://www.acmicpc.net/problem/1264)|
 |1547|구현|[공](https://www.acmicpc.net/problem/1547)|
 |2420|구현|[사파리월드](https://www.acmicpc.net/problem/2420)|
-|2355|구현|[수학](https://www.acmicpc.net/problem/2355)|
+|2355|구현|[시그마](https://www.acmicpc.net/problem/2355)|
+|2386|브루트포스|[도비의 영어 공부](https://www.acmicpc.net/problem/2386)|
+|2438|구현|[별찍기-1](https://www.acmicpc.net/problem/2438)|
+|2475|수학|[검증수](https://www.acmicpc.net/problem/2475)|
