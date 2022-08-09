@@ -66,3 +66,6 @@
 |2386|브루트포스|[도비의 영어 공부](https://www.acmicpc.net/problem/2386)|
 |2438|구현|[별찍기-1](https://www.acmicpc.net/problem/2438)|
 |2475|수학|[검증수](https://www.acmicpc.net/problem/2475)|
+|10162|그리디 알고리즘|[전자레인지](https://www.acmicpc.net/problem/10162)|
+|5585|그리디 알고리즘|[거스름돈](https://www.acmicpc.net/problem/5585)|
+|2739|수학|[구구단](https://www.acmicpc.net/problem/2739)|
