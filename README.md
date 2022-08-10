@@ -69,3 +69,5 @@
 |10162|그리디 알고리즘|[전자레인지](https://www.acmicpc.net/problem/10162)|
 |5585|그리디 알고리즘|[거스름돈](https://www.acmicpc.net/problem/5585)|
 |2739|수학|[구구단](https://www.acmicpc.net/problem/2739)|
+|1731|수학|[추론](https://www.acmicpc.net/problem/1731)|
+|2490|구현|[윷놀이](https://www.acmicpc.net/problem/2490)|

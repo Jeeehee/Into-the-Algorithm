@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7322A62028A36D44001969A0 /* 1731.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7322A61F28A36D44001969A0 /* 1731.swift */; };
+		7322A62228A372B4001969A0 /* 2490.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7322A62128A372B4001969A0 /* 2490.swift */; };
 		733D7827289A0B05001E4BE6 /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 733D7826289A0B05001E4BE6 /* LongestSubstringWithoutRepeatingCharacters.swift */; };
 		735DC1C928879576000EE5DE /* 1550.swift in Sources */ = {isa = PBXBuildFile; fileRef = 735DC1C828879576000EE5DE /* 1550.swift */; };
 		735DC1CB2887A802000EE5DE /* 2557.swift in Sources */ = {isa = PBXBuildFile; fileRef = 735DC1CA2887A802000EE5DE /* 2557.swift */; };
@@ -89,6 +91,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7322A61F28A36D44001969A0 /* 1731.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1731.swift; sourceTree = "<group>"; };
+		7322A62128A372B4001969A0 /* 2490.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2490.swift; sourceTree = "<group>"; };
 		733D7826289A0B05001E4BE6 /* LongestSubstringWithoutRepeatingCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestSubstringWithoutRepeatingCharacters.swift; sourceTree = "<group>"; };
 		735DC1C828879576000EE5DE /* 1550.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1550.swift; sourceTree = "<group>"; };
 		735DC1CA2887A802000EE5DE /* 2557.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2557.swift; sourceTree = "<group>"; };
@@ -303,6 +307,8 @@
 				738477F228A1FC8000500A40 /* 10162.swift */,
 				738477F428A207F900500A40 /* 5585.swift */,
 				738477F628A20A2700500A40 /* 2739.swift */,
+				7322A61F28A36D44001969A0 /* 1731.swift */,
+				7322A62128A372B4001969A0 /* 2490.swift */,
 			);
 			path = BaekJoon;
 			sourceTree = "<group>";
@@ -469,6 +475,7 @@
 				73E28F3E288F962C00C62FA5 /* 8393.swift in Sources */,
 				73E28F48288FBFAF00C62FA5 /* 10817.swift in Sources */,
 				73872ECD288D07D200749B2A /* 5522.swift in Sources */,
+				7322A62028A36D44001969A0 /* 1731.swift in Sources */,
 				738477F528A207F900500A40 /* 5585.swift in Sources */,
 				73872EC7288CF22A00749B2A /* 5337.swift in Sources */,
 				73AD3F702890DBB100B0213E /* 11549.swift in Sources */,
@@ -493,6 +500,7 @@
 				73AD3F6E2890D9CC00B0213E /* 11367.swift in Sources */,
 				7392A704289373E200E530B4 /* 1152.swift in Sources */,
 				73B55EE628850777004FF108 /* 1001.swift in Sources */,
+				7322A62228A372B4001969A0 /* 2490.swift in Sources */,
 				73DC1088289F768F001DEDA4 /* 2438.swift in Sources */,
 				73B55EE8288508DE004FF108 /* 1330.swift in Sources */,
 				73D680D6289CAB3D006277C3 /* 1547.swift in Sources */,
