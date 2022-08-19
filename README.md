@@ -71,3 +71,6 @@
 |2739|수학|[구구단](https://www.acmicpc.net/problem/2739)|
 |1731|수학|[추론](https://www.acmicpc.net/problem/1731)|
 |2490|구현|[윷놀이](https://www.acmicpc.net/problem/2490)|
+|2576|구현|[홀수](https://www.acmicpc.net/problem/2576)|
+|2562|구현|[최댓값](https://www.acmicpc.net/problem/2562)|
+|2743|구현|[단어 길이 재기](https://www.acmicpc.net/problem/2743)|
