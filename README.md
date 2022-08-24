@@ -75,3 +75,4 @@
 |2562|구현|[최댓값](https://www.acmicpc.net/problem/2562)|
 |2743|구현|[단어 길이 재기](https://www.acmicpc.net/problem/2743)|
 |1371|구현|[가장 많은 글자](https://www.acmicpc.net/problem/1371)|
+|1568|구현|[새](https://www.acmicpc.net/problem/1568)|
