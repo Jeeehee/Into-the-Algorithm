@@ -11,7 +11,7 @@ func q10828() {
     let count = Int(readLine()!)!
     var stack: [Int] = []
     
-    for i in 0..<count {
+    for _ in 0..<count {
         let input = readLine()!.split(separator: " ").map { $0 }
         
         if input[0] == "push" {
