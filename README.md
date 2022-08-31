@@ -77,3 +77,5 @@
 |1371|구현|[가장 많은 글자](https://www.acmicpc.net/problem/1371)|
 |1568|구현|[새](https://www.acmicpc.net/problem/1568)|
 |2309|구현|[일곱난쟁이](https://www.acmicpc.net/problem/2309)|
+|2744|구현|[대소문자 바꾸기](https://www.acmicpc.net/problem/2744)|
+|2754|구현|[학점계산](https://www.acmicpc.net/problem/2754)|
