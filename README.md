@@ -79,3 +79,5 @@
 |2309|구현|[일곱난쟁이](https://www.acmicpc.net/problem/2309)|
 |2744|구현|[대소문자 바꾸기](https://www.acmicpc.net/problem/2744)|
 |2754|구현|[학점계산](https://www.acmicpc.net/problem/2754)|
+|2789|문자열|[유학금지](https://www.acmicpc.net/problem/2789)|
+|2789|문자열|[유학금지](https://www.acmicpc.net/problem/2789)|
