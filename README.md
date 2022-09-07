@@ -82,3 +82,4 @@
 |2789|문자열|[유학금지](https://www.acmicpc.net/problem/2789)|
 |2789|문자열|[유학금지](https://www.acmicpc.net/problem/2789)|
 |2822|정렬|[점수계산](https://www.acmicpc.net/problem/2822)|
+|2846|구현|[오르막길](https://www.acmicpc.net/problem/2846)|
