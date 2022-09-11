@@ -84,3 +84,5 @@
 |2822|정렬|[점수계산](https://www.acmicpc.net/problem/2822)|
 |2846|구현|[오르막길](https://www.acmicpc.net/problem/2846)|
 |3857|문자열|[FBI](https://www.acmicpc.net/problem/2857)|
+|2947|배열|[나무 조각](https://www.acmicpc.net/problem/2947)|
+|2953|구현|[나는 요리사다](https://www.acmicpc.net/problem/2953)|
