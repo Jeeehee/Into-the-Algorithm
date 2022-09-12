@@ -3,86 +3,87 @@
 
 ## Programmers
 
-|번호|주제|문제|
+|번호|문제|풀이|
 |---|---|---|
-|64061|스택|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|
+|64061|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/64061.swift)|
+|70128|[내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/70128.swift)|
+
 
 ## Leetcode
 
-|주제|문제|
+|문제|풀이|
 |---|---|
-|Hash Table|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
+|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Leetcode/LongestSubstringWithoutRepeatingCharacters.swift)|
 
 ## BaekJoon
 
-|번호|주제|문제|
+|번호|문제|풀이|
 |---|---|---|
-|1000|사칙연산|[A+B](https://www.acmicpc.net/problem/1000)|
-|1001|사칙연산|[A-B](https://www.acmicpc.net/problem/1001)|
-|1330|구현|[두 수 비교하기](https://www.acmicpc.net/problem/1330)|
-|10828|스택|[스택](https://www.acmicpc.net/problem/10828)|
-|1550|구현|[16진수](https://www.acmicpc.net/problem/1550)|
-|2557|구현|[Hello World](https://www.acmicpc.net/problem/2557)|
-|2558|사칙연산|[A+B - 2](https://www.acmicpc.net/problem/2558)|
-|2741|구현|[N 찍기](https://www.acmicpc.net/problem/2741)|
-|2742|구현|[기찍 N](https://www.acmicpc.net/problem/2742)|
-|2752|정렬|[세수정렬](https://www.acmicpc.net/problem/2752)|
-|2753|구현|[윤년](https://www.acmicpc.net/problem/2753)|
-|4101|구현|[크냐?](https://www.acmicpc.net/problem/4101)|
-|4562|구현|[No Brainer](https://www.acmicpc.net/problem/4562)|
-|4832|구현|[숫자 맞추기 게임](https://www.acmicpc.net/problem/4892)|
-|5217|구현|[쌍의합](https://www.acmicpc.net/problem/5217)|
-|5337|구현|[웰컴](https://www.acmicpc.net/problem/5337)|
-|5338|구현|[마이크로소프트 로고](https://www.acmicpc.net/problem/5338)|
-|5522|구현|[카드게임](https://www.acmicpc.net/problem/5522)|
-|6749|구현|[Next in line](https://www.acmicpc.net/problem/6749)|
-|9012|스택|[괄호](https://www.acmicpc.net/problem/9012)|
-|6778|구현|[Which Alien?](https://www.acmicpc.net/problem/6778)|
-|7891|사칙연산|[Can you add this?](https://www.acmicpc.net/problem/7891)|
-|8370|사칙연산|[Plane](https://www.acmicpc.net/problem/8370)|
-|8393|사칙연산|[합](https://www.acmicpc.net/problem/8393)|
-|9316|구현|[Hello Judge](https://www.acmicpc.net/problem/9316)|
-|9713|사칙연산|[Sum of Odd Sequence](https://www.acmicpc.net/problem/9713)|
-|10170|구현|[NFC West vs North](https://www.acmicpc.net/problem/10170)|
-|10699|구현|[오늘 날짜](https://www.acmicpc.net/problem/10699)|
-|10817|구현|[세 수](https://www.acmicpc.net/problem/10817)|
-|11104|구현|[Fridge of Your Dreams](https://www.acmicpc.net/problem/11104)|
-|11319|구현|[Count Me In](https://www.acmicpc.net/problem/11319)|
-|11367|구현|[Report Card Time](https://www.acmicpc.net/problem/11367)|
-|11549|구현|[Identifying tea](https://www.acmicpc.net/problem/11549)|
-|11654|구현|[아스키 코드](https://www.acmicpc.net/problem/11654)|
-|13597|구현|[Tri-du](https://www.acmicpc.net/problem/13597)|
-|13752|구현|[히스토그램](https://www.acmicpc.net/problem/13752)|
-|14038|구현|[Tournament Selection](https://www.acmicpc.net/problem/14038)|
-|14681|구현|[사분면 고르기](https://www.acmicpc.net/problem/14681)|
-|15000|구현|[CAPS](https://www.acmicpc.net/problem/15000)|
-|1152|문자열|[단어의 개수](https://www.acmicpc.net/problem/1152)|
-|1834|수학|[나머지와 몫이 같은 수](https://www.acmicpc.net/problem/1834)|
-|1259|문자열|[팰린드롬수](https://www.acmicpc.net/problem/1259)|
-|1264|문자열|[모음의 개수](https://www.acmicpc.net/problem/1264)|
-|1547|구현|[공](https://www.acmicpc.net/problem/1547)|
-|2420|구현|[사파리월드](https://www.acmicpc.net/problem/2420)|
-|2355|구현|[시그마](https://www.acmicpc.net/problem/2355)|
-|2386|브루트포스|[도비의 영어 공부](https://www.acmicpc.net/problem/2386)|
-|2438|구현|[별찍기-1](https://www.acmicpc.net/problem/2438)|
-|2475|수학|[검증수](https://www.acmicpc.net/problem/2475)|
-|10162|그리디 알고리즘|[전자레인지](https://www.acmicpc.net/problem/10162)|
-|5585|그리디 알고리즘|[거스름돈](https://www.acmicpc.net/problem/5585)|
-|2739|수학|[구구단](https://www.acmicpc.net/problem/2739)|
-|1731|수학|[추론](https://www.acmicpc.net/problem/1731)|
-|2490|구현|[윷놀이](https://www.acmicpc.net/problem/2490)|
-|2576|구현|[홀수](https://www.acmicpc.net/problem/2576)|
-|2562|구현|[최댓값](https://www.acmicpc.net/problem/2562)|
-|2743|구현|[단어 길이 재기](https://www.acmicpc.net/problem/2743)|
-|1371|구현|[가장 많은 글자](https://www.acmicpc.net/problem/1371)|
-|1568|구현|[새](https://www.acmicpc.net/problem/1568)|
-|2309|구현|[일곱난쟁이](https://www.acmicpc.net/problem/2309)|
-|2744|구현|[대소문자 바꾸기](https://www.acmicpc.net/problem/2744)|
-|2754|구현|[학점계산](https://www.acmicpc.net/problem/2754)|
-|2789|문자열|[유학금지](https://www.acmicpc.net/problem/2789)|
-|2789|문자열|[유학금지](https://www.acmicpc.net/problem/2789)|
-|2822|정렬|[점수계산](https://www.acmicpc.net/problem/2822)|
-|2846|구현|[오르막길](https://www.acmicpc.net/problem/2846)|
-|3857|문자열|[FBI](https://www.acmicpc.net/problem/2857)|
-|2947|배열|[나무 조각](https://www.acmicpc.net/problem/2947)|
-|2953|구현|[나는 요리사다](https://www.acmicpc.net/problem/2953)|
+|1000|[A+B](https://www.acmicpc.net/problem/1000)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/1000.swift)|
+|1001|[A-B](https://www.acmicpc.net/problem/1001)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/1001.swift)|
+|1330|[두 수 비교하기](https://www.acmicpc.net/problem/1330)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/1330.swift)|
+|10828|[스택](https://www.acmicpc.net/problem/10828)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/10828.swift)|
+|1550|[16진수](https://www.acmicpc.net/problem/1550)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/1550.swift)|
+|2557|[Hello World](https://www.acmicpc.net/problem/2557)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2557.swift)|
+|2558|[A+B - 2](https://www.acmicpc.net/problem/2558)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2558.swift)|
+|2741|[N 찍기](https://www.acmicpc.net/problem/2741)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2741.swift)|
+|2742|[기찍 N](https://www.acmicpc.net/problem/2742)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2742.swift)|
+|2752|[세수정렬](https://www.acmicpc.net/problem/2752)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2752.swift)|
+|2753|[윤년](https://www.acmicpc.net/problem/2753)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2753.swift)|
+|4101|[크냐?](https://www.acmicpc.net/problem/4101)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/4101.swift)|
+|4562|[No Brainer](https://www.acmicpc.net/problem/4562)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/4562.swift)|
+|4832|[숫자 맞추기 게임](https://www.acmicpc.net/problem/4892)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/4892.swift)|
+|5217|[쌍의합](https://www.acmicpc.net/problem/5217)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/5217.swift)|
+|5337|[웰컴](https://www.acmicpc.net/problem/5337)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/5337.swift)|
+|5338|[마이크로소프트 로고](https://www.acmicpc.net/problem/5338)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/5338.swift)|
+|5522|[카드게임](https://www.acmicpc.net/problem/5522)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/5522.swift)|
+|6749|[Next in line](https://www.acmicpc.net/problem/6749)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/6749.swift)|
+|9012|[괄호](https://www.acmicpc.net/problem/9012)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/9012.swift)|
+|6778|[Which Alien?](https://www.acmicpc.net/problem/6778)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/6778.swift)|
+|7891|[Can you add this?](https://www.acmicpc.net/problem/7891)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/7891.swift)|
+|8370|[Plane](https://www.acmicpc.net/problem/8370)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/8370.swift)|
+|8393|[합](https://www.acmicpc.net/problem/8393)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/8393.swift)|
+|9316|[Hello Judge](https://www.acmicpc.net/problem/9316)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/9316.swift)|
+|9713|[Sum of Odd Sequence](https://www.acmicpc.net/problem/9713)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/9713.swift)|
+|10170|[NFC West vs North](https://www.acmicpc.net/problem/10170)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/10170.swift)|
+|10699|[오늘 날짜](https://www.acmicpc.net/problem/10699)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/10699.swift)|
+|10817|[세 수](https://www.acmicpc.net/problem/10817)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/10817.swift)|
+|11104|[Fridge of Your Dreams](https://www.acmicpc.net/problem/11104)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/11104.swift)|
+|11319|[Count Me In](https://www.acmicpc.net/problem/11319)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/11319.swift)|
+|11367|[Report Card Time](https://www.acmicpc.net/problem/11367)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/11367.swift)|
+|11549|[Identifying tea](https://www.acmicpc.net/problem/11549)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/11549.swift)|
+|11654|[아스키 코드](https://www.acmicpc.net/problem/11654)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/11654.swift)|
+|13597|[Tri-du](https://www.acmicpc.net/problem/13597)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/13597.swift)|
+|13752|[히스토그램](https://www.acmicpc.net/problem/13752)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/13752.swift)|
+|14038|[Tournament Selection](https://www.acmicpc.net/problem/14038)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/14038.swift)|
+|14681|[사분면 고르기](https://www.acmicpc.net/problem/14681)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/14681.swift)|
+|15000|[CAPS](https://www.acmicpc.net/problem/15000)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/15000.swift)|
+|1152|[단어의 개수](https://www.acmicpc.net/problem/1152)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/1152.swift)|
+|1834|[나머지와 몫이 같은 수](https://www.acmicpc.net/problem/1834)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/1834.swift)|
+|1259|[팰린드롬수](https://www.acmicpc.net/problem/1259)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/1259.swift)|
+|1264|[모음의 개수](https://www.acmicpc.net/problem/1264)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/1264.swift)|
+|1547|[공](https://www.acmicpc.net/problem/1547)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/1547.swift)|
+|2420|[사파리월드](https://www.acmicpc.net/problem/2420)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2420.swift)|
+|2355|[시그마](https://www.acmicpc.net/problem/2355)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2355.swift)|
+|2386|[도비의 영어 공부](https://www.acmicpc.net/problem/2386)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2386.swift)|
+|2438|[별찍기-1](https://www.acmicpc.net/problem/2438)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2438.swift)|
+|2475|[검증수](https://www.acmicpc.net/problem/2475)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2475.swift)|
+|10162|[전자레인지](https://www.acmicpc.net/problem/10162)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/10162.swift)|
+|5585|[거스름돈](https://www.acmicpc.net/problem/5585)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/5585.swift)|
+|2739|[구구단](https://www.acmicpc.net/problem/2739)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2739.swift)|
+|1731|[추론](https://www.acmicpc.net/problem/1731)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/1731.swift)|
+|2490|[윷놀이](https://www.acmicpc.net/problem/2490)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2490.swift)|
+|2576|[홀수](https://www.acmicpc.net/problem/2576)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2576.swift)|
+|2562|[최댓값](https://www.acmicpc.net/problem/2562)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2562.swift)|
+|2743|[단어 길이 재기](https://www.acmicpc.net/problem/2743)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2743.swift)|
+|1371|[가장 많은 글자](https://www.acmicpc.net/problem/1371)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/1371.swift)|
+|1568|[새](https://www.acmicpc.net/problem/1568)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/1568.swift)|
+|2309|[일곱난쟁이](https://www.acmicpc.net/problem/2309)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2309.swift)|
+|2744|[대소문자 바꾸기](https://www.acmicpc.net/problem/2744)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2744.swift)|
+|2754|[학점계산](https://www.acmicpc.net/problem/2754)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2754.swift|
+|2789|[유학금지](https://www.acmicpc.net/problem/2789)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2789.swift)|
+|2822|[점수계산](https://www.acmicpc.net/problem/2822)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2822.swift)|
+|2846|[오르막길](https://www.acmicpc.net/problem/2846)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2846.swift)|
+|3857|[FBI](https://www.acmicpc.net/problem/2857)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2857.swift)|
+|2947|[나무 조각](https://www.acmicpc.net/problem/2947)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2947.swift)|
+|2953|[나는 요리사다](https://www.acmicpc.net/problem/2953)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2953.swift)|
