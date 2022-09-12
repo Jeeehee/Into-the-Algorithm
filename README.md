@@ -80,10 +80,11 @@
 |1568|[새](https://www.acmicpc.net/problem/1568)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/1568.swift)|
 |2309|[일곱난쟁이](https://www.acmicpc.net/problem/2309)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2309.swift)|
 |2744|[대소문자 바꾸기](https://www.acmicpc.net/problem/2744)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2744.swift)|
-|2754|[학점계산](https://www.acmicpc.net/problem/2754)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2754.swift|
+|2754|[학점계산](https://www.acmicpc.net/problem/2754)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2754.swift)|
 |2789|[유학금지](https://www.acmicpc.net/problem/2789)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2789.swift)|
 |2822|[점수계산](https://www.acmicpc.net/problem/2822)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2822.swift)|
 |2846|[오르막길](https://www.acmicpc.net/problem/2846)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2846.swift)|
 |3857|[FBI](https://www.acmicpc.net/problem/2857)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2857.swift)|
 |2947|[나무 조각](https://www.acmicpc.net/problem/2947)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2947.swift)|
 |2953|[나는 요리사다](https://www.acmicpc.net/problem/2953)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2953.swift)|
+|14582|[오늘도 졌다](https://www.acmicpc.net/problem/14582)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/14582.swift)|
