@@ -88,3 +88,6 @@
 |2947|[나무 조각](https://www.acmicpc.net/problem/2947)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2947.swift)|
 |2953|[나는 요리사다](https://www.acmicpc.net/problem/2953)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2953.swift)|
 |14582|[오늘도 졌다](https://www.acmicpc.net/problem/14582)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/14582.swift)|
+|2966|[찍기](https://www.acmicpc.net/problem/2966)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/2966.swift)|
+|3004|[체스판 조각](https://www.acmicpc.net/problem/3004)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/3004.swift)|
+
