@@ -7,6 +7,12 @@
 |---|---|---|
 |64061|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/64061.swift)|
 |70128|[내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/70128.swift)|
+|12937|[짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12937.swift)|
+|12944|[평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12944.swift)|
+|12928|[약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12928.swift)|
+|12947|[하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12947.swift)|
+|12922|[수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12922.swift)|
+|42748|[k번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/42748.swift)|
 
 
 ## Leetcode
