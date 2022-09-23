@@ -100,4 +100,9 @@
 |5597|[과제 안 내신 분..?](https://www.acmicpc.net/problem/5597)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/5597.swift)|
 |3046|[R2](https://www.acmicpc.net/problem/3046)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/3046.swift)|
 |4458|[첫 글자를 대문자로](https://www.acmicpc.net/problem/4458)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/4458.swift)|
+|24262|[알고리즘 수업 - 알고리즘의 수행 시간 1](https://www.acmicpc.net/problem/24262)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/24262.swift)|
+|24263|[알고리즘 수업 - 알고리즘의 수행 시간 2](https://www.acmicpc.net/problem/24263)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/24263.swift)|
+|24264|[알고리즘 수업 - 알고리즘의 수행 시간 3](https://www.acmicpc.net/problem/24264)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/24264.swift)|
+|24265|[알고리즘 수업 - 알고리즘의 수행 시간 4](https://www.acmicpc.net/problem/24265)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/24265.swift)|
+|24266|[알고리즘 수업 - 알고리즘의 수행 시간 5](https://www.acmicpc.net/problem/24266)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/24266.swift)|
 
