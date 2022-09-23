@@ -13,6 +13,7 @@
 |12947|[하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12947.swift)|
 |12922|[수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12922.swift)|
 |42748|[k번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/42748.swift)|
+|72410|[신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/72410.swift)|
 
 
 ## Leetcode
