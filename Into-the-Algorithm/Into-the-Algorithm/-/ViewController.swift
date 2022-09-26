@@ -11,7 +11,6 @@ class ViewController: NSViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print(q12901(5, 24))
     }
 
     override var representedObject: Any? {

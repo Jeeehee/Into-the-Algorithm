@@ -15,6 +15,7 @@
 |42748|[k번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/42748.swift)|
 |72410|[신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/72410.swift)|
 |12919|[서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12919.swift)|
+|12921|[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12921.swift)|
 
 
 ## Leetcode
