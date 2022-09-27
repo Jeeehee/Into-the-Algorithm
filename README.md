@@ -16,6 +16,9 @@
 |72410|[신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/72410.swift)|
 |12919|[서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12919.swift)|
 |12921|[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12921.swift)|
+|12931|[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12931.swift)|
+|12934|[정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12934.swift)|
+|12916|[문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12916.swift)|
 
 
 ## Leetcode
