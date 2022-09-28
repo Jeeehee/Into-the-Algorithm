@@ -19,6 +19,11 @@
 |12931|[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12931.swift)|
 |12934|[정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12934.swift)|
 |12916|[문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12916.swift)|
+|12943|[콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12943.swift)|
+|12912|[두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12912.swift)|
+|12933|[정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12933.swift)|
+|12925|[문자열을 정수로](https://school.programmers.co.kr/learn/courses/30/lessons/12925)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12925.swift)|
+|12954|[x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954)](https://school.programmers.co.kr/learn/courses/30/lessons/12954)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12954.swift)|
 
 
 ## Leetcode
