@@ -24,6 +24,7 @@
 |12933|[정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12933.swift)|
 |12925|[문자열을 정수로](https://school.programmers.co.kr/learn/courses/30/lessons/12925)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12925.swift)|
 |12954|[x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12954.swift)|
+|12948|[핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12948.swift)|
 
 
 ## Leetcode
