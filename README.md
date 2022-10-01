@@ -28,6 +28,7 @@
 |12910|[나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12910.swift)|
 |12935|[제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935https://school.programmers.co.kr/learn/courses/30/lessons/12935)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12935.swift)|
 |76501|[음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935https://school.programmers.co.kr/learn/courses/30/lessons/76501)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/76501.swift)|
+|86491|[최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/12935https://school.programmers.co.kr/learn/courses/30/lessons/86491)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/86491.swift)|
 
 
 ## Leetcode
