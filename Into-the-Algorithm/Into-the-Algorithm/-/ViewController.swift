@@ -11,7 +11,6 @@ class ViewController: NSViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print(q86491([[60, 50], [30, 70], [60, 30], [80, 40]]))
     }
 
     override var representedObject: Any? {
