@@ -8,6 +8,10 @@
 import Cocoa
 
 class ViewController: NSViewController {
+    
+    enum error: Error {
+        case isLowercase
+    }
 
     override func viewDidLoad() {
         super.viewDidLoad()
