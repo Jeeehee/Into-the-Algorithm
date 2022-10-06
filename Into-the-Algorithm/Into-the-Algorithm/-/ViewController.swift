@@ -8,18 +8,10 @@
 import Cocoa
 
 class ViewController: NSViewController {
-    
-    enum error: Error {
-        case isLowercase
-    }
 
     override func viewDidLoad() {
         super.viewDidLoad()
-    }
-
-    override var representedObject: Any? {
-        didSet {
-        }
+        q12865()
     }
 }
 
