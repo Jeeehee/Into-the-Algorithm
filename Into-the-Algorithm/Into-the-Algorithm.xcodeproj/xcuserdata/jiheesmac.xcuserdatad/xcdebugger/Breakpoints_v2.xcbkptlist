@@ -39,32 +39,16 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "290C9554-E31E-46CD-ACE2-1CDF931502A7"
-            shouldBeEnabled = "Yes"
+            uuid = "9633EF74-DEB5-46A0-B4FA-20F8398F0B92"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Into-the-Algorithm/BaekJoon/12865.swift"
+            filePath = "Into-the-Algorithm/Programmers/131128.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "31"
-            endingLineNumber = "31"
-            landmarkName = "q12865()"
-            landmarkType = "9">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "3081BBD5-2A67-474D-B029-FB5825B44AEC"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Into-the-Algorithm/BaekJoon/12865.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "27"
-            endingLineNumber = "27"
-            landmarkName = "q12865()"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "q131128(_:_:)"
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
