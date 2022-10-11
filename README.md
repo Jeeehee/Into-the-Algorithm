@@ -33,6 +33,7 @@
 |86491|[최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/86491.swift)|
 |12969|[직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12969.swift)|
 |12917|[문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12917.swift)|
+|42862|[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/42862.swift)|
 
 
 ## Leetcode
