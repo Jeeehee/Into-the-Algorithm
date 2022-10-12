@@ -11,7 +11,7 @@ class ViewController: NSViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print(q42862(5, [2, 4], [1, 3, 5]))
+        print(q77884(1, 1))
     }
 
 }
