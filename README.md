@@ -35,6 +35,8 @@
 |12917|[문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12917.swift)|
 |42862|[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/42862.swift)|
 |77884|[약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/77884.swift)]|
+|42889|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/42889.swift)]|
+
 
 
 ## Leetcode
