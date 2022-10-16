@@ -2,9 +2,10 @@
 알고리즘 속으로....!
 
 ## Programmers
-
-[Lv1 List →](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/Lv1.md)
-[Lv2 List →](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/Lv2.md)
+|레벨|리스트 바로가기|
+|---|---|
+|Lv 1|[Lv 1 List](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/Lv1.md)|
+|Lv 2|[Lv 2 List](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/Lv2.md)|
 
 
 ## Leetcode
