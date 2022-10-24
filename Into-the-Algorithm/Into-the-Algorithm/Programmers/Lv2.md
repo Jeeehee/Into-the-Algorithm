@@ -11,3 +11,4 @@
 |12914|[멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12914.swift)|
 |12945|[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12945.swift)|
 |70129|[이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/70129.swift)|
+|12980|[점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12980.swift)|
