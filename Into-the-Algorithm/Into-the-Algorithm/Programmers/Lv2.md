@@ -12,3 +12,4 @@
 |12945|[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12945.swift)|
 |70129|[이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/70129.swift)|
 |12980|[점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12980.swift)|
+|42747|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/42747.swift)|
