@@ -15,3 +15,4 @@
 |42747|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/42747.swift)|
 |12913|[땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12913.swift)|
 |12911|[다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12911.swift)|
+|42842|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/42842.swift)|
