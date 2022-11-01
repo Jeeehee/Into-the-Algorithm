@@ -18,3 +18,4 @@
 |42842|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/42842.swift)|
 |12953|[N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12953.swift)|
 |42578|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/42578.swift)|
+|62048|[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/62048.swift)|
