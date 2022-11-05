@@ -11,7 +11,8 @@ class ViewController: NSViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        q10430()
+        let input = Int(readLine()!)!
+        print(q10872(n: input))
     }
 
 }
