@@ -100,4 +100,4 @@
 |9084|[동전](https://www.acmicpc.net/problem/9084)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/9084.swift)|
 |10871|[X보다 작은 수](https://www.acmicpc.net/problem/10871)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/10871.swift)|
 |10430|[나머지](https://www.acmicpc.net/problem/10430)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/10430.swift)|
-
+|10872|[팩토리얼](https://www.acmicpc.net/problem/10872)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/10872.swift)|
