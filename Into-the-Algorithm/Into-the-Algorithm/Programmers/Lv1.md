@@ -34,3 +34,4 @@
 |77884|[약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/77884.swift)]|
 |42889|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/42889.swift)]|
 |82612|[부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/82612.swift)]|
+|82612|[문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/Programmers/12918.swift)]|
