@@ -102,3 +102,4 @@
 |10430|[나머지](https://www.acmicpc.net/problem/10430)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/10430.swift)|
 |10872|[팩토리얼](https://www.acmicpc.net/problem/10872)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/10872.swift)|
 |16435|[스네이크버드](https://www.acmicpc.net/problem/16435)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/16435.swift)|
+|14645|[와이버스 부릉부릉](https://www.acmicpc.net/problem/14645)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/14645.swift)|
