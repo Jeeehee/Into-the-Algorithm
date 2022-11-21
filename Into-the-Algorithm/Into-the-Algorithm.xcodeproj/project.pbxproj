@@ -21,6 +21,7 @@
 		7322A62228A372B4001969A0 /* 2490.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7322A62128A372B4001969A0 /* 2490.swift */; };
 		73243D3028E7ED83001E38D6 /* 86491.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73243D2F28E7ED83001E38D6 /* 86491.swift */; };
 		73291B3F290E39BD00AA4DD5 /* 82612.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73291B3E290E39BC00AA4DD5 /* 82612.swift */; };
+		732AA169292A5F9C004637F6 /* 25191.swift in Sources */ = {isa = PBXBuildFile; fileRef = 732AA168292A5F9C004637F6 /* 25191.swift */; };
 		7332A366290D3E8B00DEB313 /* 12953.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7332A365290D3E8B00DEB313 /* 12953.swift */; };
 		7338ABE52923B7350068DDAC /* 14645.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7338ABE42923B7350068DDAC /* 14645.swift */; };
 		7338ABE72923B8F70068DDAC /* 5988.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7338ABE62923B8F70068DDAC /* 5988.swift */; };
@@ -186,6 +187,7 @@
 		7322A62128A372B4001969A0 /* 2490.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2490.swift; sourceTree = "<group>"; };
 		73243D2F28E7ED83001E38D6 /* 86491.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 86491.swift; sourceTree = "<group>"; };
 		73291B3E290E39BC00AA4DD5 /* 82612.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 82612.swift; sourceTree = "<group>"; };
+		732AA168292A5F9C004637F6 /* 25191.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 25191.swift; sourceTree = "<group>"; };
 		7332A365290D3E8B00DEB313 /* 12953.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12953.swift; sourceTree = "<group>"; };
 		7338ABE42923B7350068DDAC /* 14645.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 14645.swift; sourceTree = "<group>"; };
 		7338ABE62923B8F70068DDAC /* 5988.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 5988.swift; sourceTree = "<group>"; };
@@ -535,6 +537,7 @@
 				7338ABE42923B7350068DDAC /* 14645.swift */,
 				7338ABE62923B8F70068DDAC /* 5988.swift */,
 				737AA83C2929179B00932F19 /* 4470.swift */,
+				732AA168292A5F9C004637F6 /* 25191.swift */,
 			);
 			path = BaekJoon;
 			sourceTree = "<group>";
@@ -766,6 +769,7 @@
 				7383B9B528DD826D00089F53 /* 24262.swift in Sources */,
 				73B55EE42884FE9F004FF108 /* 1000.swift in Sources */,
 				73DC108A289F786C001DEDA4 /* 2475.swift in Sources */,
+				732AA169292A5F9C004637F6 /* 25191.swift in Sources */,
 				7371F56828CDF3BA001D6A24 /* 2953.swift in Sources */,
 				735DC1CF2887A8AD000EE5DE /* 2741.swift in Sources */,
 				73C1A0292917E5F700BCA519 /* 12918.swift in Sources */,
@@ -998,6 +1002,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.jihee.Into-the-Algorithm";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -1025,6 +1030,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.jihee.Into-the-Algorithm";
 				PRODUCT_NAME = "$(TARGET_NAME)";
