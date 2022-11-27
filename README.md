@@ -106,4 +106,5 @@
 |5988|[홀수일까 짝수일까](https://www.acmicpc.net/problem/5988)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/5988.swift)|
 |4470|[줄번호](https://www.acmicpc.net/problem/4470)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/4470.swift)|
 |25191|[치킨댄스를 추는 곰곰이를 본 임스](https://www.acmicpc.net/problem/25191)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/25191.swift)|
-|10101|[삼각형 외우기](https://www.acmicpc.net/problem/25191)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/10101.swift)|
+|10101|[삼각형 외우기](https://www.acmicpc.net/problem/10101)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/10101.swift)|
+|10869|[사칙연산](https://www.acmicpc.net/problem/10869)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/10869.swift)|
