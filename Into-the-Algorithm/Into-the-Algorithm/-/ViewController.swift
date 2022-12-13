@@ -11,6 +11,7 @@ class ViewController: NSViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print(q2(coordinate: [0, 0]))
     }
 
 }
