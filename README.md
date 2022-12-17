@@ -108,3 +108,12 @@
 |25191|[치킨댄스를 추는 곰곰이를 본 임스](https://www.acmicpc.net/problem/25191)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/25191.swift)|
 |10101|[삼각형 외우기](https://www.acmicpc.net/problem/10101)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/10101.swift)|
 |10869|[사칙연산](https://www.acmicpc.net/problem/10869)|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/BaekJoon/10869.swift)|
+
+
+
+## 이것이 코딩테스트다
+
+|문제|풀이|
+|---|---|
+|큰 수의 법칙|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/ThisIsCordingTest/%ED%81%B0%20%EC%88%98%EC%9D%98%20%EB%B2%95%EC%B9%99.swift)|
+|왕실의 나이트|[풀이](https://github.com/Jeeehee/Into-the-Algorithm/blob/main/Into-the-Algorithm/Into-the-Algorithm/ThisIsCordingTest/%EC%99%95%EC%8B%A4%EC%9D%98%20%EB%82%98%EC%9D%B4%ED%8A%B8.swift)|
