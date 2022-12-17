@@ -358,13 +358,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		731FB1022947718300B12815 /* 이것이 코딩테스트다 */ = {
+		731FB1022947718300B12815 /* ThisIsCordingTest */ = {
 			isa = PBXGroup;
 			children = (
 				731FB103294771AA00B12815 /* 큰 수의 법칙.swift */,
 				7398D2CF29481AA30052DEF1 /* 왕실의 나이트.swift */,
 			);
-			name = "이것이 코딩테스트다";
+			name = ThisIsCordingTest;
 			path = "이것이 코딩테스트다";
 			sourceTree = "<group>";
 		};
@@ -402,7 +402,7 @@
 				73B55EDC2884FD91004FF108 /* Programmers */,
 				733D7825289A0ADE001E4BE6 /* Leetcode */,
 				73B55EDD2884FD9B004FF108 /* BaekJoon */,
-				731FB1022947718300B12815 /* 이것이 코딩테스트다 */,
+				731FB1022947718300B12815 /* ThisIsCordingTest */,
 			);
 			path = "Into-the-Algorithm";
 			sourceTree = "<group>";
